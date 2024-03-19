@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/APIWebsite/static/css/main.3a83ddeb.css",
+    "main.js": "/APIWebsite/static/js/main.73dbd68f.js",
+    "index.html": "/APIWebsite/index.html",
+    "main.3a83ddeb.css.map": "/APIWebsite/static/css/main.3a83ddeb.css.map",
+    "main.73dbd68f.js.map": "/APIWebsite/static/js/main.73dbd68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a83ddeb.css",
+    "static/js/main.73dbd68f.js"
+  ]
+}
